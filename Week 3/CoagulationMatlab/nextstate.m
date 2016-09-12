@@ -15,9 +15,9 @@ elseif new_heparin_infusion>10
     new_heparin_infusion=10;
 end
 
-if      indx_patient==1, newstate = Patient_1(...); % fill in the blank
-elseif  indx_patient==2, newstate = Patient_2(...); % fill in the blank
-elseif  indx_patient==3, newstate = Patient_3(...); % fill in the blank
+if      indx_patient==1, newstate = Patient_1(new_heparin_infusion); % fill in the blank
+elseif  indx_patient==2, newstate = Patient_2(new_heparin_infusion); % fill in the blank
+elseif  indx_patient==3, newstate = Patient_3(new_heparin_infusion); % fill in the blank
 else warning('unknown patient ...'), newstate=[NaN NaN];
 end
 
