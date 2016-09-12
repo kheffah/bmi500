@@ -1,0 +1,41 @@
+Untar the file.  In the same directorly start matlab, then type  main  
+to run the function   main
+
+This brings up a window with all the displays and buttons.  Pull down
+the "Run" menu at top of window and select "Start".  From then on you
+may click on the "update" buttons and change the text in the text
+boxes as often as you like.
+
+When done, select "Stop" in the "Run" menu.
+
+Here is a script showing how to run on Unix:
+
+26 -> matlab -nojvm
+                              < M A T L A B >
+                  Copyright 1984-2002 The MathWorks, Inc.
+                      Version 6.5.0.180913a Release 13
+                                Jun 18 2002
+
+  Using Toolbox Path Cache.  Type "help toolbox_path_cache" for more info.
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+Diary is being appended to DiaryMatlab
+>> main
+ans =
+  110.0004
+resetting
+>> stopping
+>> quit
+
+This code is free for your use.  I only ask that you acknowledge me as
+the source of this code whenever it is used or modified.
+
+
+Chuck Anderson
+Department of Computer Science
+Colorado State University
+Fort Collins, CO 80524
+http://www.cs.colostate.edu/~anderson
+
