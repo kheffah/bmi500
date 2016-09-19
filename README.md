@@ -1,7 +1,7 @@
 # BMI500, Fall 2016
 BMI 500: Introduction to Biomedical Informatics
 
-# Tentative Schedule
+### Tentative Schedule
 |Date	|Topic	|Summary	|Instructor(s)	|
 |-------	|------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|
 | 8/29 	| Introduction to Biomedical Informatics: 	| Course overview; History; Applications; Interdisciplinary nature; informatics in action — case studies 	| Clifford, Sharma 	|
